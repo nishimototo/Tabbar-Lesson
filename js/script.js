@@ -8,5 +8,4 @@ $(function() {
     $($(this).attr('href')).show();
     event.preventDefault();
   });
-
 });
